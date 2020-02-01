@@ -46,6 +46,7 @@ public class Result {
             if (yourAnswer.equals(parsingEnglish.getParsed2().get(randomNumber))){
                 System.out.println("You are right!");
 
+
             }else{
                 System.out.println("No, it's wrong");
                 System.out.println("The right answer is \"" + parsingEnglish.getParsed2().get(randomNumber) + "\"");
