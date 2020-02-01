@@ -60,8 +60,6 @@ public class Result {
         double wr = wrongAnswers;
         double at = attempts;
         double percent = (wr/at) *100;
-        double t = 100.0-percent;
-          //      System.out.println("Or "+ t + "%" );
 
 
      reader.close();

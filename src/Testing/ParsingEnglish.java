@@ -62,11 +62,11 @@ i--;
         return a;
 }
 
-    public void output(ArrayList<String> strings){
-        for (String re: strings){
-            System.out.println(re);
-        }
-
-    }
+//    public void output(ArrayList<String> strings){
+//        for (String re: strings){
+//            System.out.println(re);
+//        }
+//
+//    }
 
 }
